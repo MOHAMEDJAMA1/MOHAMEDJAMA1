@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am a Full‑Stack Software Dev and SaaS Developer focused on building scalable, real‑world software systems that solve business problems. I specialize in designing and developing complete platforms, including frontend interfaces, backend systems, databases, and authentication infrastructure.<br>I am the founder of KODX and the creator of SOMEDU, a full School Management System that enables schools to manage students, teachers, classes, attendance, and grading through a modern and efficient platform. I have experience building full production‑level systems, including business tracking platforms and automation tools.<br><br>My core expertise includes JavaScript, React, Next.js, Supabase, PostgreSQL, and modern web technologies. I focus on building secure, scalable, and reliable SaaS applications from idea to deployment.<br><br>I am passionate about using technology to create systems that improve efficiency, automate operations, and support real business growth.
+I'm a Full-Stack Developer and Computer Engineering student passionate about building modern web applications and real-world software products.
+I currently work as a Software Developer at Alnaciim Water Company, where I contribute to software solutions and continue developing my skills in full-stack development.
+My experience includes building SaaS-style applications, dashboard systems, REST APIs, authentication systems, and database-driven platforms using modern technologies such as React, TypeScript, Node.js, PostgreSQL, Next.js, and Supabase.
+Some of my projects include:
+SOMEDU – A School Management System for managing students, teachers, attendance, classes, and grading.
+Cloud Security Dashboard – A monitoring and security-focused platform with real-time workflows and analytics.
+Various full-stack web applications focused on business automation, data management, and user experience.
+I enjoy solving real problems with software, learning new technologies, and building products that are scalable, secure, and easy to use.
+Tech Stack
+Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS
+Backend: Node.js, Express.js, REST APIs
+Database: PostgreSQL, Supabase
+Tools: Git, GitHub, Docker, AI-Assisted Development Tools
 
 
 ## 🌐 Socials:
