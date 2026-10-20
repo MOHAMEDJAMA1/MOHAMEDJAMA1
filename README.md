@@ -44,25 +44,26 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDJAMA1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+
 
 ---
 
-### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-jama12)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabshir881@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedjama.vercel.app)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
 
 ### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDJAMA1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDJAMA1&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDJAMA1&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabshir881@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedjama.vercel.app)
